@@ -35,20 +35,28 @@ The following **additional** features are implemented:
 * [x] Ability to turn on and off music  
 * [x] Icon for help screen (implementation coming soon)
 
+GIFs created with [ezgif](https://ezgif.com/video-to-gif)
+
+## Launch
+
+<img src="./extras.launch.gif" width="400" height="800"/>
+
+## Win
+
+<img src="./extras/win.gif" width="400" height="800"/>
+
+## Loss
+
+<img src="./extras/lose.gif" width="400" height="800"/>
+
+## Error Checks
+
+<img src="./extras/albumA.gif" width="400" height="800"/>
+
+## Dark Mode Support
 
 
-## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
