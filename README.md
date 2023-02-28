@@ -39,21 +39,25 @@ GIFs created with [ezgif](https://ezgif.com/video-to-gif)
 
 ## Launch
 
-<img src="./extras.launch.gif" width="400" height="800"/>
+<img src="./extras/open.gif" width="200" height="400"/>
 
 ## Win
 
-<img src="./extras/win.gif" width="400" height="800"/>
+<img src="./extras/win.gif" width="200" height="400"/>
 
 ## Loss
 
-<img src="./extras/lose.gif" width="400" height="800"/>
+<img src="./extras/lose.gif" width="200" height="400"/>
 
 ## Error Checks
 
-<img src="./extras/albumA.gif" width="400" height="800"/>
+<img src="./extras/error.gif" width="200" height="400"/>
 
 ## Dark Mode Support
+
+Light           |  Dark
+:-------------------------:|:-------------------------:
+![](./extras/light.jpeg)  |  ![](./extras/dark.jpeg)
 
 
 
