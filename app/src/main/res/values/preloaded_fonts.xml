@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/andada</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/caudex_bold</item>
+        <item>@font/caveat</item>
+        <item>@font/codystar_light</item>
+        <item>@font/emblema_one</item>
+        <item>@font/gochi_hand</item>
+    </array>
+</resources>
