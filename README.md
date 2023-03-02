@@ -1,6 +1,6 @@
 #  *fourdle*
 
-
+<img src="./extras/logo.png" width="200" height="200"/>
 
 **fordle** is an android app that puts a spin on the [popular](https://www.nytimes.com/2022/01/03/technology/wordle-word-game-creator.html) game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
