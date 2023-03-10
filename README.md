@@ -1,4 +1,4 @@
-#  *fourdle*
+#  fourdle 🧩
 
 <img src="./extras/logo.png" width="200" height="200"/>
 
